@@ -1,4 +1,4 @@
-# Hi, I'm Silas 👋
+# Hi, I'm SilasWei 👋
 
 关注 **Go、AI 应用与开发者工具**，探索让 AI 更好地融入日常开发。
 
